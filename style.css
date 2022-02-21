@@ -1,0 +1,50 @@
+.images {
+    height: 300px;
+    width: 325px;
+}
+
+#copy_right {
+    color: #99DDCC;
+    background-color: #000D6B;
+}
+
+body {
+    text-align: center;
+    background-color: #9C19E0;
+}
+
+#headings {
+    color: #99DDCC;
+    border: 5px #FF5DA2 dashed;
+    background-color: #000D6B;
+}
+
+#headings p {
+    color: #FF5DA2;
+}
+
+#copy_right_name {
+    position: fixed;
+    bottom:0;
+    line-height: 3;
+    width: 100%;
+    background-color: #000D6B;
+    font-size: 15px;
+    font-family: 'Galindo', cursive;
+
+}
+
+button {
+    background-color: #DA4854;
+    color: #ffff;
+}
+
+#result_label {
+    color: #97C900;
+    font-family: 'ocean', cursive;
+}
+
+#result_accuracy {
+    color: #97C900;
+    font-family: 'ocean', cursive;
+}
